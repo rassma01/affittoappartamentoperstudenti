@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Apartment for Rent</title>
+</head>
+<body>
+    <h1>🏠 Student Apartment for Rent</h1>
+    <p><a href="index.html">Deutsch</a> | English | <a href="it.html">Italiano</a></p>
+
+    <h2>Available Now or by Arrangement</h2>
+    <p>Bright 2-room apartment in Unterinn am Ritten – perfect for students!</p>
+
+    <h3>📐 Details:</h3>
+    <ul>
+        <li>Approx. 50 m² (recently renovated)</li>
+        <li>Ground floor</li>
+        <li>2 rooms + kitchen + bathroom with shower</li>
+        <li>Furnished (bed, desk, wardrobe, shelf)</li>
+        <li>Internet connection available</li>
+        <li>Bike storage room available</li>
+        <li>Rent (all-inclusive): €900</li>
+        <li>Security deposit: 1 month's rent</li>
+    </ul>
+
+    <h3>📍 Location:</h3>
+    <ul>
+        <li>Unterinn/Ritten</li>
+        <li>Bus stop just 3 minutes away on foot</li>
+        <li>Approx. 20 minutes by bus to the University of Bozen-Bolzano</li>
+        <li>Supermarket, bakery and pharmacy within walking distance</li>
+    </ul>
+
+    <h3>👤 Ideal for:</h3>
+    <ul>
+        <li>Two people</li>
+        <li>Non-smokers</li>
+        <li>Unfortunately, no pets allowed</li>
+    </ul>
+
+    <h3>📅 Available from:</h3>
+    <p>Immediately</p>
+
+    <h3>📞 Contact:</h3>
+    <p>Maria Mair<br>Email: rassma01@yahoo.de<br>Phone: 348 2475597</p>
+
+    <p>👉 Viewings by appointment only!</p>
+</body>
+</html>
