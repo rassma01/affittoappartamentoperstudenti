@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Appartamento per Studenti in Affitto</title>
+</head>
+<body>
+    <h1>🏠 Appartamento per Studenti in Affitto</h1>
+    <p><a href="index.html">Deutsch</a> | <a href="en.html">English</a> | Italiano</p>
+
+    <h2>Disponibile da Subito o su Accordo</h2>
+    <p>Affittasi luminoso appartamento con 2 stanze a Unterinn sul Renon – perfetto per studenti!</p>
+
+    <h3>📐 Dettagli:</h3>
+    <ul>
+        <li>Superficie: ca. 50 m² (recentemente ristrutturato)</li>
+        <li>Piano terra</li>
+        <li>2 stanze + cucina + bagno con doccia</li>
+        <li>Arredato (letto, scrivania, armadio, scaffale)</li>
+        <li>Connessione Internet disponibile</li>
+        <li>Locale per biciclette disponibile</li>
+        <li>Affitto (tutto incluso): €900</li>
+        <li>Cauzione: 1 mensilità</li>
+    </ul>
+
+    <h3>📍 Posizione:</h3>
+    <ul>
+        <li>Unterinn/Renon</li>
+        <li>Fermata dell’autobus a soli 3 minuti a piedi</li>
+        <li>Circa 20 minuti in autobus per l’Università di Bolzano</li>
+        <li>Supermercato, panificio e farmacia raggiungibili a piedi</li>
+    </ul>
+
+    <h3>👤 Ideale per:</h3>
+    <ul>
+        <li>Due persone</li>
+        <li>Non fumatori</li>
+        <li>Animali non ammessi</li>
+    </ul>
+
+    <h3>📅 Disponibile da:</h3>
+    <p>Subito</p>
+
+    <h3>📞 Contatto:</h3>
+    <p>Maria Mair<br>Email: rassma01@yahoo.de<br>Telefono: 348 2475597</p>
+
+    <p>👉 Visite su appuntamento!</p>
+</body>
+</html>
